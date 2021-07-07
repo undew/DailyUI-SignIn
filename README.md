@@ -1,4 +1,6 @@
 # DailyUI #1 SignIn
+リンク:https://traning-ea93d.web.app/
+
 ReactでDailyUIで作ったデザインを再現しました。<br>
 ※chrome検証画面のiPhone Xのみで動作確認 
 <br>
